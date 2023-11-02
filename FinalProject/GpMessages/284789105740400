@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Tuesday, October 24, 2023 4:32:25 PM</msg><msg code="539" type="100">ERROR 000539: Traceback (most recent call last):
+  File "&lt;expression&gt;", line 1, in &lt;module&gt;
+TypeError: unsupported operand type(s) for /: 'str' and 'int'
+</msg><msg code="-2147467259" type="100">Failed to execute (CalculateField).</msg><msg code="0" type="3">Failed at Tuesday, October 24, 2023 4:32:25 PM (Elapsed Time: 0.09 seconds)</msg></messages>
